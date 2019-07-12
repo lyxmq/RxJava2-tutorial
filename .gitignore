@@ -21,3 +21,45 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+.settings
+.project
+.class
+.classpath
+target
+/.project
+.settings
+*.dubbo.cache.lock
+*.dubbo.cache
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+/wallet-account-service/dubbo
+test-output
+test-output
+
+.DS_Store
+# Java class files
+*.class
+*.log
+*.bak
+*.epoch
+.classpath
+.project
+# generated files
+target/
+gen/
+bin/
+.settings/
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+.idea
+dubbo/
+*.zip
